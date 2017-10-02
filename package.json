@@ -1,0 +1,22 @@
+{
+  "devDependencies": {},
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "data.task": "^3.1.1",
+    "io.filesystem": "^0.1.0",
+    "ramda": "^0.24.1"
+  },
+  "bin": {
+    "prem": "./src/cli.js"
+  },
+  "name": "premunition",
+  "version": "1.0.0",
+  "main": "./src/test.js",
+  "scripts": {
+    "test": "./src/cli.js"
+  },
+  "author": "Jeff Peterson",
+  "license": "MIT",
+  "description": "Simple tests written in comments."
+}
